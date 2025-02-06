@@ -31,16 +31,3 @@ System.out.println(arr[i]);
 }
 }
 }
-
-
-OUTPUT
-enter the  no.of elements into array:
-5
-enter the elements:
-1 34 29 35 23
-sorted array:
-1
-23
-29
-34
-35
