@@ -60,12 +60,3 @@ public class BinarySearch {
         return -1;
     }
 }
-
-
-OUTPUT
-Enter the number of elements: 5
-Enter 5 elements (space-separated):
-26 28 29 65 89
-Sorted array: [26, 28, 29, 65, 89]
-Enter the element to search: 29
-Element found at index: 2
