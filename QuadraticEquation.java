@@ -41,15 +41,3 @@ scanner.close();
  return squareRoot;
 }
 }
-
-
-OUTPUT
-enter coefficient of a:2
-enter coefficient of b:3
-enter coefficient of c:4
-Discriminant(D):-23.0
-the equation has two complex roots.
-Root1:-0.75+1.1989578808281798i
-Root2:-0.75-1.1989578808281798i
-
-
