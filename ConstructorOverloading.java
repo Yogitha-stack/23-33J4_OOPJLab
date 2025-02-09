@@ -18,13 +18,6 @@ class ConstructorOverloading{
            Demo obj1=new Demo();
            Demo obj2=new Demo(6);
            Demo obj3=new Demo(3,6);
-    }
+     }
 }
-
-
-OUTPUT
-Empty Constructor
-Empty Constructor
-a value is:6
-a value is3 and b value is:6
   
