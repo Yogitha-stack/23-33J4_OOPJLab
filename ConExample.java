@@ -14,5 +14,3 @@ obj.Display();
 }}
 
 
-OUTPUT
-i value:34and j value:23
