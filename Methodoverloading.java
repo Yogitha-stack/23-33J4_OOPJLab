@@ -9,6 +9,3 @@ long d=ob1.mul(2,3,5);
 System.out.println(d);
 }
 }
-
-OUTPUT
-30
