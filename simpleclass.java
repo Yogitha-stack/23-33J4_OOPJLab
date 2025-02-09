@@ -11,5 +11,3 @@ obj.printmessage();
 }
 }
 
-OUTPUT
-hello,welcome to csm
