@@ -21,14 +21,3 @@ class DefaultValues {
         System.out.println("boolean: " + obj.defaultBoolean);
     }
 }
-
-OUTPUT
-Default values of primitive data types:
-byte: 0
-short: 0
-int: 0
-long: 0
-float: 0.0
-double: 0.0
-char: []
-boolean: false
